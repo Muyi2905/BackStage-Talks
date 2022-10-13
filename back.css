@@ -31,3 +31,22 @@ h1 {
     display: flex;
     justify-content: space-between;
 }
+
+p {
+    float: left;
+    font-weight: 400;
+    text-align: left;
+
+}
+
+
+
+.issue {
+    text-align: center;
+    font-weight: 800;
+
+}
+
+a {
+    color: black;
+}
