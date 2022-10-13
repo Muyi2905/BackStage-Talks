@@ -44,9 +44,7 @@ p {
 .issue {
     text-align: center;
     font-weight: bolder;
-    display: grid;
-    gap: 20px;
-    justify-content: space-between;
+    display: flex;
     width: 30%;
     padding-left: 160px;
 
@@ -88,4 +86,8 @@ ul {
     justify-content: space-around;
     gap: 12px;
     font-weight: bold;
+}
+
+.para {
+    margin-bottom: 10px;
 }
