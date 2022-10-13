@@ -46,7 +46,8 @@ p {
     font-weight: bolder;
     display: flex;
     width: 30%;
-    padding-left: 160px;
+    padding-left: 15px;
+    flex-direction: column;
 
 
 }
@@ -72,6 +73,8 @@ p {
     flex-direction: column;
     padding: 100px;
     text-align: right;
+    padding-right: 0;
+    padding-top: 0;
 
 }
 
@@ -89,5 +92,5 @@ ul {
 }
 
 .para {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
