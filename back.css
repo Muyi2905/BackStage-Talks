@@ -43,10 +43,12 @@ p {
 
 .issue {
     text-align: center;
-    font-weight: 800;
+    font-weight: bolder;
+    display: grid;
+    gap: 20px;
 
 }
 
-a {
+#footerlink {
     color: black;
 }
